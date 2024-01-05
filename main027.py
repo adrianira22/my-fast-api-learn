@@ -1,5 +1,4 @@
 from fastapi import FastAPI, HTTPException, Header
-import uvicorn
 
 app = FastAPI()
 
